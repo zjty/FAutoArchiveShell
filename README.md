@@ -1,0 +1,2 @@
+# FAutoArchiveShell
+ios自动打包的脚本，包含Development，AdHoc，AppStore这3种打包方式，并且手动选择来上传到蒲公英或者fir.im
